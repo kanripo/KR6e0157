@@ -1,23 +1,21 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:59:03.523549
-#+TITLE: 首楞嚴壇場修證儀
-#+PROPERTY: CBETA_ID X74n1477
-#+PROPERTY: ID KR6e0157
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 74, No. 1477
-#+PROPERTY: VOL 74
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 首楞嚴壇場修證儀 / master
+#+DATE: 2015-11-26 14:22:45.971019
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0157_X_000-0517a>
-[[file:KR6e0157_001.txt::001-0517a3][敘言]]
-[[file:KR6e0157_001.txt::0517b4][壇場方規第一¶]]
-[[file:KR6e0157_001.txt::0517c19][啟請賢聖第二]]
-[[file:KR6e0157_001.txt::0518a23][供養觀門第三]]
-[[file:KR6e0157_001.txt::0518b13][稱讚如來第四]]
-[[file:KR6e0157_001.txt::0518c1][禮敬三寶第五]]
-[[file:KR6e0157_001.txt::0519a6][誦呪圍壇第六]]
-[[file:KR6e0157_001.txt::0519b2][滌業規品第七]]
-[[file:KR6e0157_001.txt::0519b22][懺悔發願第八]]
-[[file:KR6e0157_001.txt::0520a16][旋繞念誦第九¶]]
-[[file:KR6e0157_001.txt::0520b6][析通觀法第十¶]]
-[[file:KR6e0157_001.txt::0520c1][No.1477-A¶]]
+* 目次
+* [[file:KR6e0157_001.txt::001-0517a3][敘言]]
+* [[file:KR6e0157_001.txt::0517b4][壇場方規第一¶]]
+* [[file:KR6e0157_001.txt::0517c19][啟請賢聖第二]]
+* [[file:KR6e0157_001.txt::0518a23][供養觀門第三]]
+* [[file:KR6e0157_001.txt::0518b13][稱讚如來第四]]
+* [[file:KR6e0157_001.txt::0518c1][禮敬三寶第五]]
+* [[file:KR6e0157_001.txt::0519a6][誦呪圍壇第六]]
+* [[file:KR6e0157_001.txt::0519b2][滌業規品第七]]
+* [[file:KR6e0157_001.txt::0519b22][懺悔發願第八]]
+* [[file:KR6e0157_001.txt::0520a16][旋繞念誦第九¶]]
+* [[file:KR6e0157_001.txt::0520b6][析通觀法第十¶]]
+* [[file:KR6e0157_001.txt::0520c1][No.1477-A¶]]
+* 卷
+** [[file:KR6e0157_001.txt][首楞嚴壇場修證儀 1]]
